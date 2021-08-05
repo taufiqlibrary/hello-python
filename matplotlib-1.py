@@ -1,6 +1,8 @@
-# -*- coding : utf-8 -*-
+# -*- coding: utf-8 -*-
 """
-@author : taufiqlibrary
+Created on Thu Aug  5 22:44:28 2021
+
+@author: taufiqlibrary
 """
 
 import matplotlib.pyplot as plt
